@@ -1,0 +1,17 @@
+<html lang="pt-br">
+<head>
+    <script src="/shift/dist/desktop/js/setup.js"></script>
+    <!-- Chartset -->
+    <meta charset="UTF-8">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/shift/dist/desktop/img/favicon.ico" />
+
+    <!-- Título -->
+    <title>SHIFT - FIAP</title>
+
+    <!-- Folhas de Estilo -->
+    <link href="//fonts.googleapis.com/css?family=Roboto:500,900,300,700,100,400" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/shift/dist/desktop/css/main.css" rel="stylesheet" />
+    
