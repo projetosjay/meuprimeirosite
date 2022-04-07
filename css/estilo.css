@@ -1,18 +1,13 @@
 body{
-    background-color: 	#b8e8ee;
+    background-color: 	#696969;
 }
 
-p{color: #880015;
-font-size: 1.5em;
-}
+p{color: #800000
+font-size: 1.5em;}
 h1,h2 {color: 	#8B0000;
-    text-align: center;
-
-}
+    text-align: center;}
 figure{
-    text-align:center;
-
-}
+    text-align:center;}
 
 .conteiner{
     width: 70%;
@@ -25,5 +20,7 @@ figure{
 }
 
 .img_corpo{
-    width: 60%;
-}
+    width: 60%;}
+
+p{
+font-family: Arial, Helvetica, sans-serifS;}
