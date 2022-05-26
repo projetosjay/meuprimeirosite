@@ -1,27 +1,25 @@
-body{
-    background-color: 	#696969;
-}
+body{background-color: 	#696969;}
+
+.menu{
+    background-color: rgba(9, 7, 6,0,3);
+    padding: 2%;}
+
 
 p{color: #800000
 font-size: 1.5em;}
+
 h1,h2 {color: 	#8B0000;
     text-align: center;}
-figure{
-    text-align:center;}
 
-.conteiner{
-    width: 70%;
-    margin: auto;
+figure{text-align:center;}
 
- 
-}
-.img_topo{
-    width: 100%;
-}
+.conteiner{width: 70%;
+    margin: auto;}
 
-.img_corpo{
-    width: 60%;}
 
-p{
-font-family: Arial, Helvetica, sans-serifS;}
+.img_corpo{ width: 60%;}
 
+p{font-family: Arial, Helvetica, sans-serifS;}
+
+.gif_topo
+{width: 100%;}
