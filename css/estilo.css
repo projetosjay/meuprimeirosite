@@ -1,7 +1,10 @@
-html{scroll-behavior: smooth;}
+html{
+    scroll-behavior: smooth;
+}
 
 
-body{background-color: black;
+body{
+    background-color: black;
 }
 
 .menu{
@@ -9,7 +12,7 @@ body{background-color: black;
     padding: 2%;
     margin-bottom: 3%; }
 
-.itens_Menu, .sumario, .menu_ext{
+.itens_Menu, .itens_sumario, .menu_ext{
     padding-top: 1%;
     text-align: center;
     font-size: 1.3em;
@@ -24,12 +27,14 @@ body{background-color: black;
 
 }
 
-.itens_Menu a:hover, .menu_ext a:hover, .sumario a:hover {background-color: rgba(105,105,105);}
+
+
+.itens_Menu a:hover, .menu_ext a:hover, .itens_sumario a:hover {background-color: rgba(105,105,105);}
 
 
 
 
-p{
+p{ 
     color: white;
     font-size: 1.3em;
     font-family: 'Times New Roman', Times, serif;
