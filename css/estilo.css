@@ -24,7 +24,7 @@ header{
 
 
 body{
-    background-color: black;
+    background-color:black;
 }
 
 .menu{
@@ -140,6 +140,42 @@ footer p {
     font-size: 1em;
     color: black;
     
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    font-size: 2em;
+    font-weight: bold;
+    color: rgba(255,215,0);
+}
+
+td,th{
+    border: 3px dashed rgba(255,215,0);
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+td:first-child{
+    width: 30%;
+    color: white;
+}
+
+td:first-child + td{
+    width: 70%;
+}
+
+audio{
+    width: 60%;
+}
+
+audio::-webkit-midia-controls-play-button,
+audio::-webkit-midia-controls-panel{
+    background-color: rgba(255,215,76, 0.5)s;
 }
 
 .botao{
